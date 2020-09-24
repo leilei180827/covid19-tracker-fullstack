@@ -1,4 +1,5 @@
 Try it at 35.201.4.157 -a GCP compute engine linux VM
+(gunicorn and nginx)
 
 ###
 
