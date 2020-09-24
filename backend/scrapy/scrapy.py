@@ -15,7 +15,7 @@ def close_conn(conn, cursor):
 
 
 def get_conn():
-    conn = mysql.connector.connect(host="localhost", user="admin", password="admin", database="covid19")
+    conn = mysql.connector.connect(host="localhost", user="xxx", password="xxx", database="covid19")
     cursor = conn.cursor()
     return conn, cursor
 
