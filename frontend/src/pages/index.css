@@ -1,0 +1,24 @@
+.main-page {
+  height: 100%;
+  background-color: #081832 !important;
+}
+.page-header {
+  text-align: center;
+  color: #ffffff !important;
+  width: 40%;
+  margin: 0px auto 20px;
+  padding-top: 10px;
+  font-size: 40px !important;
+  font-weight: bold;
+}
+.page-footer {
+  background-color: #081832 !important;
+  text-align: center;
+  width: 50%;
+  margin: 0px auto;
+  padding-top: 10px;
+}
+.page-footer-content {
+  color: #ffffff !important;
+  font-size: 14px;
+}

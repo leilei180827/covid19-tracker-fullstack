@@ -1,0 +1,18 @@
+.update-time {
+  text-align: center;
+  background-color: #034c6a;
+  color: #ffffff !important;
+  width: fit-content;
+  font-size: 14px;
+  margin: 0px -5px;
+  padding: 0 5px;
+}
+.update-time-content {
+  font-size: 18px;
+  color: #ffff43;
+  margin-left: 5px;
+}
+
+.statistic-card {
+  color: #ffffff !important;
+}
